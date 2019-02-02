@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Face Recognation</string>
+    <string name="BLANK"></string>
+    <string name="Straininig">Training...</string>
+    <string name="search">Search...</string>
+    <string name="SFaceName">Name</string>
+    <string name="SSearching">Searching</string>
+    <string name="SFrontCamera">Front Camera</string>
+    <string name="SBackCamera">Back Camera</string>
+</resources>
